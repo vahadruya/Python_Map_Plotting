@@ -33,6 +33,8 @@ Have plot using two methods.
 
 For the location names: To maintain vernacular pronunciation, while still preserving readability as per original script, I have used a self-tampered [Harvard-Kyoto transliteration](https://en.wikipedia.org/wiki/Harvard-Kyoto#:~:text=The%20Harvard%2DKyoto%20Convention%20is,mail%2C%20and%20for%20electronic%20texts.) - with the voiced retroflex lateral approximant ळ written as La, and the schwa as Ə.
 
+Example, माळठाण in HK and modified HK are mALaThANa and mALəThANə respectively.
+
 ## Contact
 
 <a href="https://www.linkedin.com/in/aditya-a-p-507b1b239/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0078b7?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/" alt="Linkedin" width="85" height="25"></a>
