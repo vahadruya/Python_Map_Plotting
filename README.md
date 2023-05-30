@@ -10,7 +10,7 @@
 5. [Contact](#contact)
 </details>
 
-##Note
+### Note
 * Remember to use CTRL+left click on the links
 * There may be display issues for the interactive map in github. Try opening it in colab.
 
