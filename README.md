@@ -10,7 +10,9 @@
 5. [Contact](#contact)
 </details>
 
-Remember to use CTRL+left click on the links
+##Note
+* Remember to use CTRL+left click on the links
+* There may be display issues for the interactive map in github. Try opening it in colab.
 
 ## About
 Plotting maps using python. Coded roughly, as a quick and temporary substitution for Tableau, when creating a customized map of Maharashtra with relevant locations. For now, minus the terrain and rails/roads, just the state and district borders are of interest.
