@@ -7,7 +7,8 @@
 2. [Methods](#methods)
 3. [Requirements](#requirements)
 4. [Transliteration System](#transliteration-system)
-5. [Contact](#contact)
+5. [Conclusion](#conclusion)
+6. [Contact](#contact)
 </details>
 
 ### Note
@@ -34,6 +35,10 @@ Have plot using two methods.
 For the location names: To maintain vernacular pronunciation, while still preserving readability as per original script, I have used a self-tampered [Harvard-Kyoto transliteration](https://en.wikipedia.org/wiki/Harvard-Kyoto#:~:text=The%20Harvard%2DKyoto%20Convention%20is,mail%2C%20and%20for%20electronic%20texts.) - with the voiced retroflex lateral approximant ळ written as La, and the schwa as Ə.
 
 Example, माळठाण in HK and modified HK are mALaThANa and mALəThANə respectively.
+
+## Conclusion
+
+Typically, I'd have preferred the method using geopandas where I can add the distance scale using geopy.distance on the axes limits. The folium method while being interactive and also quite fluid, I cannot seem to find a method to lock in the zoom. Lack of a good shapefile for MH state influences the decision in favour of folium. But, better shapefiles (like one for NYC I found [here](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm)) would make me choose geopandas.
 
 ## Contact
 
